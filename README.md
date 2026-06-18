@@ -1,16 +1,55 @@
-# React + Vite
+# 📝 The Manuscript
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 
-Currently, two official plugins are available:
+A minimalist, rapid-capture notes application designed for quick thoughts and seamless organization.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+⚡ The 1-Hour Build Challenge: This project was built entirely from scratch in under 60 minutes. The goal was to execute a rapid prototyping exercise focusing on core React state management, dynamic array rendering, and immediate, clean UI styling using Tailwind CSS without over-engineering the architecture.
 
-## React Compiler
+✨ Key Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Rapid Capture Form: Two-way bound input fields for zero-lag text entry.
 
-## Expanding the ESLint configuration
+Dynamic State Management: Real-time adding and deleting of notes using React's useState and array spreading.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Aesthetic UI: A dark-mode split layout with realistic paper-textured note cards.
+
+Responsive Design: Flexbox-driven layout that smoothly transitions from a mobile column view to a desktop side-by-side view.
+
+🛠️ Technical Architecture
+
+Frontend (Client)
+
+Framework: React.js (Bootstrapped with Vite for fast HMR and optimized builds)
+
+Styling: Tailwind CSS for utility-first, responsive design
+
+Icons: Lucide React
+
+State Management: React Hooks (useState) for managing local component state and dynamic rendering.
+
+🚀 Local Development Setup
+
+Follow these steps to get a local copy up and running on your machine.
+
+1. Clone the repository
+
+git clone [https://github.com/pranati2411/ManuscriptNotesApp](https://github.com/pranati2411/ManuscriptNotesApp)
+cd manuscript
+
+
+2. Install Dependencies
+
+npm install
+
+
+3. Start the Development Server
+
+npm run dev
+
+
+👤 Author
+
+Pranati * GitHub: @pranati2411
+
+Now and then I reread the manuscript.

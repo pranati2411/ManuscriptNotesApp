@@ -25,7 +25,6 @@ const App = () => {
 
     copyTask.splice(idx,1);
     setTask(copyTask);
-    
   }
 
   return (
