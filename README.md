@@ -50,7 +50,7 @@ Follow these steps to get a local copy up and running on your machine.
 
 ## 👤 Author
 
-**Pranati** * GitHub: [@pranati2411](https://github.com/pranati2411)
+**Pranati**  GitHub: [@pranati2411](https://github.com/pranati2411)
 
 ---
 *<p align="center">Now and then I reread the manuscript.</p>*
